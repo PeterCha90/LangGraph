@@ -1,0 +1,8 @@
+langchain==0.3.15
+langchain-core==0.3.31
+langchain-ollama==0.2.2
+langchain-teddynote==0.3.41
+langgraph==0.2.66
+langgraph-sdk==0.1.51
+langsmith==0.3.1
+ollama==0.4.7
